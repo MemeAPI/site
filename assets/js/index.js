@@ -27,7 +27,7 @@ $('a[href*="#"]')
     }
   });
 
-const Token = "Bot NTM5ODUzMTg2NTcyMjIyNDY0.XVsP3A.tFGtvn6e0Ts0duODUn_QrOi22Zg"
+const Token = "Bot "
  $.ajax({
      url: "https://discordapp.com/api/users/606909018861994026",
       headers: {
